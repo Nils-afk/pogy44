@@ -36,13 +36,19 @@ If you liked this repository, feel free to leave a star ⭐
 First clone the repo:
 
 ```
-git clone https://github.com/Pogy-Bot/Pogy.git
+git clone https://github.com/Pogy-Bot/coming-soon-page.git
 ```
 
-After cloning, run an
+After cloning, install the package
 
 ```
 npm install
+```
+
+After this, run the dev
+
+```
+npm run dev
 ```
 
 
